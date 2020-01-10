@@ -1,4 +1,4 @@
-function countwords(sentence) {
+function countWords(sentence) {
     return sentence.trim().split(/\s+/).length;
 }
 
